@@ -51,4 +51,4 @@ BLACKLIST = [26, 11]
 
 <br>
 
-[Download instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/blob/main/Download%20instructions.md)
+Installation: [instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/wiki/Instructions).
